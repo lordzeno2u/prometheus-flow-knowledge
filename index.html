@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Prometheus Flow Knowledge — truth-filtered peak-performance / flow-science tidbits."
+    />
+    <title>Prometheus Flow Knowledge</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <canvas id="scene-canvas" aria-hidden="true"></canvas>
+
+    <div class="page">
+      <header class="site-header">
+        <h1><span>Prometheus</span> Flow Knowledge</h1>
+        <p class="tagline" id="tagline">
+          Living knowledge base of truth-filtered peak-performance / flow-science tidbits.
+        </p>
+        <div class="lane-note" id="lane-note" aria-label="Lane note"></div>
+      </header>
+
+      <section class="themes-section" aria-labelledby="themes-label">
+        <h2 class="section-label" id="themes-label">HANDOFF themes</h2>
+        <div class="theme-grid" id="theme-grid"></div>
+      </section>
+
+      <div class="controls" role="search">
+        <div class="search-wrap">
+          <label class="visually-hidden" for="search-input" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)">Search tidbits</label>
+          <input
+            type="search"
+            id="search-input"
+            placeholder="Search title, claim, caveats, sources…"
+            autocomplete="off"
+          />
+        </div>
+        <div class="tier-filters" id="tier-filters" aria-label="Filter by evidence tier"></div>
+        <button type="button" class="export-btn" id="export-btn" title="Download current tidbits.json">
+          Export JSON
+        </button>
+      </div>
+
+      <p class="results-meta" id="results-meta" aria-live="polite"></p>
+      <div class="tidbit-list" id="tidbit-list"></div>
+
+      <footer class="site-footer">
+        Truth-filtered. Evidence tiers. Iterated weekly. Not hype.
+      </footer>
+    </div>
+
+    <script src="https://unpkg.com/three@0.160.0/build/three.min.js"></script>
+    <script src="js/scene.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
