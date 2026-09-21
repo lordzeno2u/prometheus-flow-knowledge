@@ -2,7 +2,12 @@
   "project": "Prometheus Flow Knowledge",
   "purpose": "Living, shareable knowledge base of truth-filtered peak-performance / flow science tidbits. Designed to iterate weekly; future API for team motivation feeds.",
   "voice": "Precise, first-principles, Promethean. No hype. Evidence tiers required.",
-  "evidenceTiers": ["Established", "Promising", "Speculative", "Contested"],
+  "evidenceTiers": [
+    "Established",
+    "Promising",
+    "Speculative",
+    "Contested"
+  ],
   "themes": [
     {
       "id": "flow-triggers",
@@ -36,7 +41,7 @@
       "title": "Challenge–skill balance is real, not a slogan",
       "claim": "Perceived challenge–skill match has a moderate association with flow; clear goals and sense of control are co-antecedents.",
       "evidenceTier": "Established",
-      "caveats": "Experience-sampling effects weaker than lab/self-report trait measures. Not a universal inverted-U every time.",
+      "caveats": "Experience-sampling effects weaker than lab/self-report trait measures. Not a universal inverted-U every time. No later meta (through 2026 review) overturns Fong 2015; related work-flow metas still treat job demands/resources and challenge fit as core antecedents.",
       "sources": [
         {
           "citation": "Fong, C. J., Zaleski, D. J., & Leach, J. K. (2015). The challenge–skill balance and antecedents of flow: A meta-analytic investigation. Journal of Positive Psychology, 10(5).",
@@ -45,17 +50,19 @@
         }
       ],
       "practice": "Before one deep block, write a single success criterion and one mid-block feedback signal. Set difficulty one notch above comfortable, not heroic.",
-      "themeIds": ["flow-triggers"],
+      "themeIds": [
+        "flow-triggers"
+      ],
       "added": "2026-09-18",
-      "lastReviewed": "2026-09-18",
+      "lastReviewed": "2026-09-21",
       "status": "active"
     },
     {
       "id": "transient-hypofrontality",
-      "title": "Transient hypofrontality is Promising, not settled doctrine",
-      "claim": "Flow may lean on practiced implicit systems while analytical/self-monitoring prefrontal capacity briefly dials down; converging imaging shows medial PFC downregulation under flow conditions.",
+      "title": "Flow shows selective MPFC downregulation, not blanket frontal shutdown",
+      "claim": "Under experimentally induced flow (challenge matched to skill), medial prefrontal / default-mode regions reliably show relative downregulation, while task-positive areas (e.g., dorsolateral PFC, anterior insula) often show relative upregulation. That selective pattern is Promising support for a hypofrontality *kernel* (less self-monitoring), not for global prefrontal shutdown.",
       "evidenceTier": "Promising",
-      "caveats": "Dietrich 2004 is theoretical. Exercise tests of broader hypofrontality are mixed. Not a license to shut off frontal lobes with stunts or chemicals.",
+      "caveats": "Dietrich 2004 is theoretical. Ulrich imaging samples are men-only arithmetic paradigms; women-only replication still missing. Harmat et al. (fNIRS, Tetris) and broader neural-basis reviews find mixed prefrontal results across methods/tasks — so blanket Transient Hypofrontality Hypothesis remains unsettled. Not a license to shut off frontal lobes with stunts or chemicals.",
       "sources": [
         {
           "citation": "Dietrich, A. (2004). Neurocognitive mechanisms underlying the experience of flow. Consciousness and Cognition.",
@@ -64,12 +71,42 @@
         {
           "citation": "Ulrich, M., et al. (2016). Dorsal Raphe Nucleus Down-Regulates Medial Prefrontal Cortex during Experience of Flow. Frontiers in Behavioral Neuroscience.",
           "doiOrUrl": "https://doi.org/10.3389/fnbeh.2016.00169"
+        },
+        {
+          "citation": "Ulrich, M., Niemann, F., & Grön, G. (2022). The neural signatures of the psychological construct “flow”: A replication study. Neuroimage: Reports, 2(4), 100139.",
+          "doiOrUrl": "https://doi.org/10.1016/j.ynirp.2022.100139",
+          "n": "41 men (replication); combined N=64 with prior BOLD sample"
         }
       ],
-      "practice": "For a skill you already own, run one uninterrupted bout — phone away, no mid-bout critique. Save judgment for after the timer.",
-      "themeIds": ["neurochemistry-ecstasis", "training-vs-chemicals"],
+      "practice": "For a skill you already own, run one uninterrupted bout — phone away, no mid-bout self-critique. Save judgment for after the timer; do not chase ‘frontal shutdown’ with chemicals or stunts.",
+      "themeIds": [
+        "neurochemistry-ecstasis",
+        "training-vs-chemicals"
+      ],
       "added": "2026-09-18",
-      "lastReviewed": "2026-09-18",
+      "lastReviewed": "2026-09-21",
+      "status": "active"
+    },
+    {
+      "id": "sleep-deprivation-cognition-2010",
+      "title": "Short-term sleep loss taxes attention hard — not a flow hack",
+      "claim": "Short-term total sleep deprivation (<48h) impairs cognition across domains; the largest, most reliable hit is simple attention / vigilance lapses, with smaller or nonsignificant effects on some complex reasoning accuracy measures.",
+      "evidenceTier": "Established",
+      "caveats": "Effect sizes vary by domain (Lim & Dinges 2010: large for attention lapses, small/nonsignificant for reasoning accuracy). Later metas on memory under deprivation/restriction are directionally consistent but do not replace the 2010 map of domain sensitivity. Individual vulnerability varies; caffeine is a partial bandage, not recovery.",
+      "sources": [
+        {
+          "citation": "Lim, J., & Dinges, D. F. (2010). A meta-analysis of the impact of short-term sleep deprivation on cognitive variables. Psychological Bulletin, 136(3), 375–389.",
+          "doiOrUrl": "https://doi.org/10.1037/a0018883",
+          "n": "70 articles / 147 cognitive tests"
+        }
+      ],
+      "practice": "Before a high-stakes deep-work day, protect a full night of sleep. If already short on sleep, shrink challenge (clearer goals, shorter blocks) instead of stacking stimulants and calling it flow.",
+      "themeIds": [
+        "training-vs-chemicals",
+        "flow-triggers"
+      ],
+      "added": "2026-09-21",
+      "lastReviewed": "2026-09-21",
       "status": "active"
     }
   ],
