@@ -12,7 +12,7 @@
     {
       "id": "flow-triggers",
       "title": "Flow triggers",
-      "notes": "Challenge–skill balance, clear goals, immediate feedback, deep embodiment, rich environment, high consequences, creativity. Separate Kotler packaging from meta-analytic support."
+      "notes": "Challenge\u2013skill balance, clear goals, immediate feedback, deep embodiment, rich environment, high consequences, creativity. Separate Kotler packaging from meta-analytic support."
     },
     {
       "id": "group-flow",
@@ -38,13 +38,13 @@
   "tidbits": [
     {
       "id": "challenge-skill-balance-2015",
-      "title": "Challenge–skill balance is real, not a slogan",
-      "claim": "Perceived challenge–skill match has a moderate association with flow; clear goals and sense of control are co-antecedents.",
+      "title": "Challenge\u2013skill balance is real, not a slogan",
+      "claim": "Perceived challenge\u2013skill match has a moderate association with flow; clear goals and sense of control are co-antecedents.",
       "evidenceTier": "Established",
       "caveats": "Experience-sampling effects weaker than lab/self-report trait measures. Not a universal inverted-U every time. No later meta (through 2026 review) overturns Fong 2015; related work-flow metas still treat job demands/resources and challenge fit as core antecedents.",
       "sources": [
         {
-          "citation": "Fong, C. J., Zaleski, D. J., & Leach, J. K. (2015). The challenge–skill balance and antecedents of flow: A meta-analytic investigation. Journal of Positive Psychology, 10(5).",
+          "citation": "Fong, C. J., Zaleski, D. J., & Leach, J. K. (2015). The challenge\u2013skill balance and antecedents of flow: A meta-analytic investigation. Journal of Positive Psychology, 10(5).",
           "doiOrUrl": "https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.967799",
           "n": "~28 studies / ~9,600 participants"
         }
@@ -62,7 +62,7 @@
       "title": "Flow shows selective MPFC downregulation, not blanket frontal shutdown",
       "claim": "Under experimentally induced flow (challenge matched to skill), medial prefrontal / default-mode regions reliably show relative downregulation, while task-positive areas (e.g., dorsolateral PFC, anterior insula) often show relative upregulation. That selective pattern is Promising support for a hypofrontality *kernel* (less self-monitoring), not for global prefrontal shutdown.",
       "evidenceTier": "Promising",
-      "caveats": "Dietrich 2004 is theoretical. Ulrich imaging samples are men-only arithmetic paradigms; women-only replication still missing. Harmat et al. (fNIRS, Tetris) and broader neural-basis reviews find mixed prefrontal results across methods/tasks — so blanket Transient Hypofrontality Hypothesis remains unsettled. Not a license to shut off frontal lobes with stunts or chemicals.",
+      "caveats": "Dietrich 2004 is theoretical. Ulrich imaging samples are men-only arithmetic paradigms; women-only replication still missing. Harmat et al. (fNIRS, Tetris) and broader neural-basis reviews find mixed prefrontal results across methods/tasks \u2014 so blanket Transient Hypofrontality Hypothesis remains unsettled. Not a license to shut off frontal lobes with stunts or chemicals.",
       "sources": [
         {
           "citation": "Dietrich, A. (2004). Neurocognitive mechanisms underlying the experience of flow. Consciousness and Cognition.",
@@ -73,12 +73,12 @@
           "doiOrUrl": "https://doi.org/10.3389/fnbeh.2016.00169"
         },
         {
-          "citation": "Ulrich, M., Niemann, F., & Grön, G. (2022). The neural signatures of the psychological construct “flow”: A replication study. Neuroimage: Reports, 2(4), 100139.",
+          "citation": "Ulrich, M., Niemann, F., & Gr\u00f6n, G. (2022). The neural signatures of the psychological construct \u201cflow\u201d: A replication study. Neuroimage: Reports, 2(4), 100139.",
           "doiOrUrl": "https://doi.org/10.1016/j.ynirp.2022.100139",
           "n": "41 men (replication); combined N=64 with prior BOLD sample"
         }
       ],
-      "practice": "For a skill you already own, run one uninterrupted bout — phone away, no mid-bout self-critique. Save judgment for after the timer; do not chase ‘frontal shutdown’ with chemicals or stunts.",
+      "practice": "For a skill you already own, run one uninterrupted bout \u2014 phone away, no mid-bout self-critique. Save judgment for after the timer; do not chase \u2018frontal shutdown\u2019 with chemicals or stunts.",
       "themeIds": [
         "neurochemistry-ecstasis",
         "training-vs-chemicals"
@@ -89,13 +89,13 @@
     },
     {
       "id": "sleep-deprivation-cognition-2010",
-      "title": "Short-term sleep loss taxes attention hard — not a flow hack",
+      "title": "Short-term sleep loss taxes attention hard \u2014 not a flow hack",
       "claim": "Short-term total sleep deprivation (<48h) impairs cognition across domains; the largest, most reliable hit is simple attention / vigilance lapses, with smaller or nonsignificant effects on some complex reasoning accuracy measures.",
       "evidenceTier": "Established",
       "caveats": "Effect sizes vary by domain (Lim & Dinges 2010: large for attention lapses, small/nonsignificant for reasoning accuracy). Later metas on memory under deprivation/restriction are directionally consistent but do not replace the 2010 map of domain sensitivity. Individual vulnerability varies; caffeine is a partial bandage, not recovery.",
       "sources": [
         {
-          "citation": "Lim, J., & Dinges, D. F. (2010). A meta-analysis of the impact of short-term sleep deprivation on cognitive variables. Psychological Bulletin, 136(3), 375–389.",
+          "citation": "Lim, J., & Dinges, D. F. (2010). A meta-analysis of the impact of short-term sleep deprivation on cognitive variables. Psychological Bulletin, 136(3), 375\u2013389.",
           "doiOrUrl": "https://doi.org/10.1037/a0018883",
           "n": "70 articles / 147 cognitive tests"
         }
@@ -108,10 +108,77 @@
       "added": "2026-09-21",
       "lastReviewed": "2026-09-21",
       "status": "active"
+    },
+    {
+      "id": "equal-turn-taking-collective-intelligence-2010",
+      "title": "Equal airtime beats the smartest person in the room",
+      "claim": "A group's collective intelligence (c) predicts diverse group-task performance better than the average or maximum individual IQ of its members; c correlates with social sensitivity and more equal conversational turn-taking.",
+      "evidenceTier": "Established",
+      "caveats": "Woolley measures collective problem-solving intelligence, not subjective group-flow state. Sawyer's popular 10-condition group-flow list (blending egos, equal participation, etc.) remains largely qualitative/Speculative as a flow package \u2014 equal turn-taking is the kernel with hard Science evidence. Later collective-intelligence work has nuances; do not treat c as a license to ignore expertise on technical tasks.",
+      "sources": [
+        {
+          "citation": "Woolley, A. W., Chabris, C. F., Pentland, A., Hashmi, N., & Malone, T. W. (2010). Evidence for a collective intelligence factor in the performance of human groups. Science, 330(6004), 686\u2013688.",
+          "doiOrUrl": "https://doi.org/10.1126/science.1193147",
+          "n": "699 people in 192 groups (two studies)"
+        }
+      ],
+      "practice": "In one collaboration today, enforce roughly equal speaking turns: no monologue, no silent spectator. If one person dominates, stop and round-robin the next three moves.",
+      "themeIds": [
+        "group-flow"
+      ],
+      "added": "2026-09-22",
+      "lastReviewed": "2026-09-22",
+      "status": "active"
+    },
+    {
+      "id": "deliberate-practice-not-flow-1993",
+      "title": "Deliberate practice is effortful \u2014 it is not flow",
+      "claim": "Expert-performance training (deliberate practice) is structured, feedback-rich, and often effortful rather than autotelic; Ericsson contrasts it with flow/peak-experience states. Meta-analysis finds deliberate practice important but incomplete: roughly 14% of performance variance overall, higher in games/music/sports and near-zero in many professions.",
+      "evidenceTier": "Established",
+      "caveats": "Magnitude of the practice\u2013performance link is Contested in the popular sense (10,000-hours theater overclaims). Macnamara et al. 2014 domain splits: ~26% games, ~21% music, ~18% sports, ~4% education, <1% professions. Chemicals/stimulants do not substitute for this structure.",
+      "sources": [
+        {
+          "citation": "Ericsson, K. A., Krampe, R. T., & Tesch-R\u00f6mer, C. (1993). The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100(3), 363\u2013406.",
+          "doiOrUrl": "https://doi.org/10.1037/0033-295X.100.3.363"
+        },
+        {
+          "citation": "Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). Deliberate practice and performance in music, games, sports, education, and professions: A meta-analysis. Psychological Science, 25(8), 1608\u20131618.",
+          "doiOrUrl": "https://doi.org/10.1177/0956797614535810",
+          "n": "88 studies (meta-analysis)"
+        }
+      ],
+      "practice": "Split today: one hard deliberate-practice bout (single weakness, immediate feedback, expect effort) and separately one performance/flow bout on a skill you already own. Do not demand flow during the hard reps.",
+      "themeIds": [
+        "training-vs-chemicals",
+        "flow-triggers"
+      ],
+      "added": "2026-09-22",
+      "lastReviewed": "2026-09-22",
+      "status": "active"
+    },
+    {
+      "id": "attention-residue-task-switching-2009",
+      "title": "Unfinished prior work leaves attention residue on the next block",
+      "claim": "When people switch from an unfinished Task A to Task B, attention residue from A impairs performance on B; completing A (or closing it under time pressure) reduces that residue.",
+      "evidenceTier": "Promising",
+      "caveats": "Two lab experiments (Leroy 2009), not a multi-lab meta. Mechanism is cognitive, not mystical. Does not prove multitasking is always worse in every field setting, but it is a clean experimental hit against mid-block context switching.",
+      "sources": [
+        {
+          "citation": "Leroy, S. (2009). Why is it so hard to do my work? The challenge of attention residue when switching between work tasks. Organizational Behavior and Human Decision Processes, 109(2), 168\u2013181.",
+          "doiOrUrl": "https://doi.org/10.1016/j.obhdp.2009.04.002"
+        }
+      ],
+      "practice": "Before one deep block, park or finish open loops: write the next physical action for each unfinished task, then leave those tabs closed until the timer ends.",
+      "themeIds": [
+        "flow-triggers"
+      ],
+      "added": "2026-09-22",
+      "lastReviewed": "2026-09-22",
+      "status": "active"
     }
   ],
   "lane": {
     "prometheus": "Peak states, flow, focus, ecstasis, training design",
-    "helix": "Longevity / lasting-longer biology — hand off, do not duplicate"
+    "helix": "Longevity / lasting-longer biology \u2014 hand off, do not duplicate"
   }
 }
