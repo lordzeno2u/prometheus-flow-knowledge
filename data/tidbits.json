@@ -249,6 +249,73 @@
       "added": "2026-09-23",
       "lastReviewed": "2026-09-23",
       "status": "active"
+    },
+    {
+      "id": "task-relevant-feedback-flow-2022",
+      "title": "Task-relevant feedback causally raises flow",
+      "claim": "In a controlled HCI experiment, designs with continuous task-relevant feedback produced higher flow ratings than no-feedback or randomized-feedback controls.",
+      "evidenceTier": "Promising",
+      "caveats": "Single controlled experiment lineage (Schaffer & Fang 2022 THCI; earlier 2016 SIGHCI timing-game work). Domain is computer tasks/games, not all work. Feedback must map to goals — noise feedback does not help.",
+      "sources": [
+        {
+          "citation": "Schaffer, O., & Fang, X. (2022). The Feedback Loop of Flow: Controlled Experiment Shows Task-relevant Feedback Increases Flow. AIS Transactions on Human-Computer Interaction, 14(3), 356–389.",
+          "doiOrUrl": "https://doi.org/10.17705/1thci.00172"
+        }
+      ],
+      "practice": "For one deep block today, invent a continuous scoreboard tied to the actual goal (e.g., tests green, words written, reps completed) — not a mood check or random notification.",
+      "themeIds": [
+        "flow-triggers"
+      ],
+      "added": "2026-09-24",
+      "lastReviewed": "2026-09-24",
+      "status": "active"
+    },
+    {
+      "id": "curiosity-dopamine-memory-2014",
+      "title": "Curiosity recruits dopaminergic learning circuits — not a five-chemical cocktail",
+      "claim": "High-curiosity states enhance memory for the curious material and for incidental items encoded nearby; fMRI links the benefit to anticipatory activity in the SN/VTA–hippocampus dopaminergic circuit.",
+      "evidenceTier": "Promising",
+      "caveats": "Gruber et al. 2014 is strong experimental neuroimaging, not a flow induction study. Stealing Fire’s neat dopamine/NE/endorphin/anandamide/serotonin stack remains Speculative packaging — useful kernel is intrinsic curiosity/reward anticipation, not chemical theater.",
+      "sources": [
+        {
+          "citation": "Gruber, M. J., Gelman, B. D., & Ranganath, C. (2014). States of curiosity modulate hippocampus-dependent learning via the dopaminergic circuit. Neuron, 84(2), 486–496.",
+          "doiOrUrl": "https://doi.org/10.1016/j.neuron.2014.08.060"
+        },
+        {
+          "citation": "Kang, M. J., et al. (2009). The wick in the candle of learning: Epistemic curiosity activates reward circuitry and enhances memory. Psychological Science, 20(8), 963–973.",
+          "doiOrUrl": "https://doi.org/10.1111/j.1467-9280.2009.02402.x"
+        }
+      ],
+      "practice": "Open one hard block by writing a concrete information gap you actually want answered (one sentence), then work only until that gap closes — curiosity first, stimulant second.",
+      "themeIds": [
+        "neurochemistry-ecstasis",
+        "training-vs-chemicals"
+      ],
+      "added": "2026-09-24",
+      "lastReviewed": "2026-09-24",
+      "status": "active"
+    },
+    {
+      "id": "microbreaks-vigor-2022",
+      "title": "Micro-breaks restore vigor; they do not reliably unlock hard cognitive performance",
+      "claim": "A meta-analysis of micro-breaks (<10 min) found small improvements in vigor and reduced fatigue, but no significant overall performance gain; any performance signal rose with longer breaks and favored creative/clerical more than demanding cognitive tasks.",
+      "evidenceTier": "Established",
+      "caveats": "Established for well-being (vigor/fatigue). Contested as a productivity hack for deep cognition — do not treat 90-second phone scrolls as recovery or as proof of a rigid 90-minute ultradian cognitive law.",
+      "sources": [
+        {
+          "citation": "Albulescu, P., Macsinga, I., Rusu, A., Sulea, C., Bodnaru, A., & Tulbure, B. T. (2022). Give me a break! A systematic review and meta-analysis on the efficacy of micro-breaks for increasing well-being and performance. PLOS ONE, 17(8), e0272460.",
+          "doiOrUrl": "https://doi.org/10.1371/journal.pone.0272460",
+          "n": "22 samples / 2335 participants"
+        }
+      ],
+      "practice": "After one focused bout, take a real micro-break that drops the task (stand, breathe, walk) for a few minutes — not inbox or social feed — then return.",
+      "themeIds": [
+        "training-vs-chemicals",
+        "flow-triggers"
+      ],
+      "added": "2026-09-24",
+      "lastReviewed": "2026-09-24",
+      "status": "active"
     }
   ],
   "lane": {
