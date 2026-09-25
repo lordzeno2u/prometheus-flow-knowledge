@@ -316,6 +316,76 @@
       "added": "2026-09-24",
       "lastReviewed": "2026-09-24",
       "status": "active"
+    },
+    {
+      "id": "morning-recovery-work-flow-2014",
+      "title": "Morning recovery predicts the day's work flow",
+      "claim": "Feeling recovered (refreshed) at the start of the workday predicts higher work-related flow that day; well-recovered software workers showed a U-shaped within-day flow pattern, while poorly recovered workers' flow declined across the day.",
+      "evidenceTier": "Promising",
+      "caveats": "Single intensive diary study (Debus et al. 2014, N=121, 5 days, multilevel). Complements Demerouti et al. 2012 on daily recovery and flow/energy but does not replace Lim & Dinges sleep-deprivation cognition meta. Not a claim that stimulants substitute for overnight recovery.",
+      "sources": [
+        {
+          "citation": "Debus, M. E., Sonnentag, S., Deutsch, W., & Nussbeck, F. W. (2014). Making flow happen: The effects of being recovered on work-related flow between and within days. Journal of Applied Psychology, 99(4), 713–722.",
+          "doiOrUrl": "https://doi.org/10.1037/a0035881",
+          "n": "121 software professionals; 493 day-level / 1,340 occasion-level observations"
+        },
+        {
+          "citation": "Demerouti, E., Bakker, A. B., Sonnentag, S., & Fullagar, C. J. (2012). Work-related flow and energy at work and at home: A study on the role of daily recovery. Journal of Organizational Behavior, 33(2), 276–295.",
+          "doiOrUrl": "https://doi.org/10.1002/job.760",
+          "n": "83 employees; 4-day diary"
+        }
+      ],
+      "practice": "Tonight: protect nonwork recovery (sleep + one real off-switch from work). Tomorrow morning, if you feel under-recovered, shrink the first deep block (clearer goal, shorter timer) instead of stacking stimulants and hoping for flow.",
+      "themeIds": [
+        "training-vs-chemicals",
+        "flow-triggers"
+      ],
+      "added": "2026-09-25",
+      "lastReviewed": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "id": "proactive-autonomy-work-flow-meta-2023",
+      "title": "Proactivity and autonomy beat waiting for the perfect task",
+      "claim": "Across 113 studies (N≈60,110), proactive behaviors showed the strongest association with work-related flow (ρ=.55); job autonomy also linked substantially (ρ=.40), and job resources overall at ρ=.38. Flow is not only something the environment hands you.",
+      "evidenceTier": "Established",
+      "caveats": "Meta-analytic associations are largely correlational (many cross-sectional samples); causality is not proven. Proactive-behaviors k is small (k=4) with wide CI — treat magnitude with caution even though direction is clear. Liu et al. also report a moderate correlational link between flow and risk-taking (ρ=.31) — bright side is not free.",
+      "sources": [
+        {
+          "citation": "Liu, W., Lu, H., Li, P., van der Linden, D., & Bakker, A. B. (2023). Antecedents and outcomes of work-related flow: A meta-analysis. Journal of Vocational Behavior, 144, 103891.",
+          "doiOrUrl": "https://doi.org/10.1016/j.jvb.2023.103891",
+          "n": "113 studies / 60,110 participants"
+        }
+      ],
+      "practice": "Before one block today, craft one controllable lever: rename the task so you choose the order, set your own success criterion, or redesign one tedious step into a short challenge — then start. Do not wait for the environment to become flow-friendly.",
+      "themeIds": [
+        "flow-triggers",
+        "training-vs-chemicals"
+      ],
+      "added": "2026-09-25",
+      "lastReviewed": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "id": "collective-efficacy-collective-flow-2014",
+      "title": "Collective efficacy and collective flow reinforce each other",
+      "claim": "In small workgroups, collective efficacy beliefs predict later collective flow, and the two relate reciprocally over time — group confidence and shared peak immersion feed each other, not just individual IQ or a charismatic leader.",
+      "evidenceTier": "Promising",
+      "caveats": "Two-wave longitudinal lab study (250 people in 52 groups), not a multi-lab field meta. Distinct from Woolley 2010 collective intelligence / equal turn-taking. Sawyer's popular 10-condition group-flow list remains largely Speculative as a package; this is the efficacy↔flow kernel with longitudinal SEM at the group level.",
+      "sources": [
+        {
+          "citation": "Salanova, M., Rodríguez-Sánchez, A. M., Schaufeli, W. B., & Cifre, E. (2014). Flowing together: A longitudinal study of collective efficacy and collective flow among workgroups. The Journal of Psychology, 148(4), 435–455.",
+          "doiOrUrl": "https://doi.org/10.1080/00223980.2013.806290",
+          "n": "250 participants / 52 small groups; two-wave longitudinal"
+        }
+      ],
+      "practice": "In one collab today, open with a 60-second group confidence check: name the shared goal and one reason this specific crew can hit it — then equalize the next three speaking turns so efficacy is earned, not performed by one voice.",
+      "themeIds": [
+        "group-flow"
+      ],
+      "added": "2026-09-25",
+      "lastReviewed": "2026-09-25",
+      "status": "active"
     }
   ],
   "lane": {
