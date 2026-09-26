@@ -386,6 +386,94 @@
       "added": "2026-09-25",
       "lastReviewed": "2026-09-25",
       "status": "active"
+    },
+    {
+      "id": "flow-proneness-d2-striatum-2013",
+      "title": "Flow proneness tracks dorsal-striatum D2",
+      "claim": "In 25 healthy adults, higher flow proneness on the Swedish Flow Proneness Questionnaire correlated with greater striatal dopamine D2-receptor availability on [11C]raclopride PET (r = .41), driven mainly by the dorsal striatum/putamen rather than ventral striatum.",
+      "evidenceTier": "Promising",
+      "caveats": "Small N PET correlational study—not causal and not an acute “flow state” scan. Does not validate Stealing Fire / Kotler’s packaged five-chemical ecstasis cocktail; it only links trait flow proneness to D2 availability and personality-like dopamine dimensions (low impulsiveness, stable emotion, positive affect).",
+      "sources": [
+        {
+          "citation": "de Manzano, Ö., Cervenka, S., Jucaite, A., Hellenäs, O., Farde, L., & Ullén, F. (2013). Individual differences in the proneness to have flow experiences are linked to dopamine D2-receptor availability in the dorsal striatum. NeuroImage, 67, 1–6.",
+          "doiOrUrl": "https://doi.org/10.1016/j.neuroimage.2012.10.072",
+          "n": "25"
+        }
+      ],
+      "practice": "Treat flow proneness as partly biological trait variance: prioritize sleep, exercise, and challenge–skill craft over chasing acute dopamine hacks or Kotler-style chemical stacking.",
+      "themeIds": [
+        "neurochemistry-ecstasis",
+        "training-vs-chemicals"
+      ],
+      "added": "2026-09-26",
+      "lastReviewed": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "id": "smartphone-presence-brain-drain-2017",
+      "title": "Phone in the room drains cognitive capacity",
+      "claim": "Across two experiments (N = 520; N = 275), the mere presence of one’s own smartphone reduced available working-memory capacity and fluid-intelligence performance even when phones were silent or powered off and participants reported little phone-related thought; costs were larger for higher smartphone dependence (Exp1 OSpan partial η² = .014; Exp2 OSpan partial η² = .026).",
+      "evidenceTier": "Promising",
+      "caveats": "Undergraduate lab samples; effects are small. Silencing or face-down placement did not remove the cost—only separating the phone to another room did. Not a flow-state study, but it directly taxes the attentional resources flow needs. Kotler-style “rich environment” tips that keep phones visible as “triggers” misread this evidence.",
+      "sources": [
+        {
+          "citation": "Ward, A. F., Duke, K., Gneezy, A., & Bos, M. W. (2017). Brain drain: The mere presence of one’s own smartphone reduces available cognitive capacity. Journal of the Association for Consumer Research, 2(2), 140–154.",
+          "doiOrUrl": "https://doi.org/10.1086/691462",
+          "n": "520 (Exp1); 275 (Exp2)"
+        }
+      ],
+      "practice": "For deep-work / flow blocks, put the phone in another room (not pocket/desk, not just silent)—especially if you feel dependent on it.",
+      "themeIds": [
+        "flow-triggers",
+        "training-vs-chemicals"
+      ],
+      "added": "2026-09-26",
+      "lastReviewed": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "id": "psychological-detachment-recovery-meta-2017",
+      "title": "Detach after work to recover capacity",
+      "claim": "Meta-analysis of 86 publications (k = 91 samples, N = 38,124 employees) found psychological detachment from work during nonwork time associated with lower exhaustion (r̄ = −.36), lower fatigue (r̄ = −.42), better sleep (r̄ = .30), higher well-being (r̄ = .32), and small gains in task performance (r̄ = .09); work-related activities in off-hours related negatively to detachment (r̄ = −.31).",
+      "evidenceTier": "Established",
+      "caveats": "Mostly self-report; many effects heterogeneous; average links to work motivation were nonsignificant, and detachment correlated slightly negatively with creativity/contextual performance—so “always fully switch off” is not a universal performance maxim. Stronger as recovery/well-being evidence than as a direct flow antecedent. Beats nootropic theater for sustainable capacity.",
+      "sources": [
+        {
+          "citation": "Wendsche, J., & Lohmann-Haislah, A. (2017). A meta-analysis on antecedents and outcomes of detachment from work. Frontiers in Psychology, 7, Article 2072.",
+          "doiOrUrl": "https://doi.org/10.3389/fpsyg.2016.02072",
+          "n": "38124"
+        }
+      ],
+      "practice": "Build a hard off-work boundary (no work email/Slack on personal phone after a set time) so evening mental disengagement can replenish next-day focus.",
+      "themeIds": [
+        "training-vs-chemicals",
+        "flow-triggers"
+      ],
+      "added": "2026-09-26",
+      "lastReviewed": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "id": "interpersonal-synchrony-prosocial-meta-2016",
+      "title": "Moving in sync boosts prosocial glue",
+      "claim": "Meta-analysis of 60 published and unpublished experiments found interpersonal synchrony (shared motor timing or sensory stimulation) produced a medium positive effect on prosocial attitudes and behaviors versus control conditions, with experimenter effects and intentionality as moderators.",
+      "evidenceTier": "Established",
+      "caveats": "Outcome is prosociality (affiliation, cooperation, helping)—not validated group-flow scales. Does not prove Sawyer/Kotler “group flow trigger lists.” Later work also flags a dark side (compliance/aggression under synchrony; Wiltermuth). Use as a cohesion precursor, not a peak-state guarantee.",
+      "sources": [
+        {
+          "citation": "Rennung, M., & Göritz, A. S. (2016). Prosocial consequences of interpersonal synchrony: A meta-analysis. Zeitschrift für Psychologie, 224(3), 168–189.",
+          "doiOrUrl": "https://doi.org/10.1027/2151-2604/a000252",
+          "n": "60 experiments"
+        }
+      ],
+      "practice": "Before a team deep-work session, do 2–3 minutes of intentional shared rhythm (walk/pace together, count-in, or brief joint warm-up) with a clear shared goal—not silent parallel scrolling.",
+      "themeIds": [
+        "group-flow",
+        "risk-reward-nos"
+      ],
+      "added": "2026-09-26",
+      "lastReviewed": "2026-09-26",
+      "status": "active"
     }
   ],
   "lane": {
