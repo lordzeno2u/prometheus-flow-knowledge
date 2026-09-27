@@ -392,7 +392,7 @@
       "title": "Flow proneness tracks dorsal-striatum D2",
       "claim": "In 25 healthy adults, higher flow proneness on the Swedish Flow Proneness Questionnaire correlated with greater striatal dopamine D2-receptor availability on [11C]raclopride PET (r = .41), driven mainly by the dorsal striatum/putamen rather than ventral striatum.",
       "evidenceTier": "Promising",
-      "caveats": "Small N PET correlational study—not causal and not an acute “flow state” scan. Does not validate Stealing Fire / Kotler’s packaged five-chemical ecstasis cocktail; it only links trait flow proneness to D2 availability and personality-like dopamine dimensions (low impulsiveness, stable emotion, positive affect).",
+      "caveats": "Small N=25 PET correlational study — not causal (no D2 manipulation) and not an acute in-flow scan. Keep Promising only. Explicitly reject mapping this onto Stealing Fire / Kotler’s packaged five-chemical ecstasis cocktail as Established; it only links trait flow proneness to dorsal-striatum D2 availability and personality-like dopamine dimensions (low impulsiveness, stable emotion, positive affect).",
       "sources": [
         {
           "citation": "de Manzano, Ö., Cervenka, S., Jucaite, A., Hellenäs, O., Farde, L., & Ullén, F. (2013). Individual differences in the proneness to have flow experiences are linked to dopamine D2-receptor availability in the dorsal striatum. NeuroImage, 67, 1–6.",
@@ -406,29 +406,38 @@
         "training-vs-chemicals"
       ],
       "added": "2026-09-26",
-      "lastReviewed": "2026-09-26",
+      "lastReviewed": "2026-09-27",
       "status": "active"
     },
     {
       "id": "smartphone-presence-brain-drain-2017",
-      "title": "Phone in the room drains cognitive capacity",
-      "claim": "Across two experiments (N = 520; N = 275), the mere presence of one’s own smartphone reduced available working-memory capacity and fluid-intelligence performance even when phones were silent or powered off and participants reported little phone-related thought; costs were larger for higher smartphone dependence (Exp1 OSpan partial η² = .014; Exp2 OSpan partial η² = .026).",
-      "evidenceTier": "Promising",
-      "caveats": "Undergraduate lab samples; effects are small. Silencing or face-down placement did not remove the cost—only separating the phone to another room did. Not a flow-state study, but it directly taxes the attentional resources flow needs. Kotler-style “rich environment” tips that keep phones visible as “triggers” misread this evidence.",
+      "title": "Phone-in-room “brain drain” did not survive replication",
+      "claim": "Ward et al. (2017) reported that the mere presence of one’s own smartphone reduced working-memory capacity and fluid-intelligence performance even when phones were silent/off. A pre-registered direct replication and a later four-level meta-analysis do not support a reliable mere-presence cost.",
+      "evidenceTier": "Contested",
+      "caveats": "Original finding Contested: Ruiz Pardo & Minda (2022) failed to replicate Ward Exp2 (no OSpan or go/no-go difference by phone location). Hartanto et al. (2024) four-level meta (33 studies / 53 samples / 166 effects, N=4,368) found nonsignificant overall effect (d = −0.02). Active notifications/interruptions remain a separate Established distraction problem — do not conflate mere presence with ringing/alerts. Practice of parking the phone for deep work can still be justified by interruption risk and habit, not by a settled mere-presence WMC tax.",
       "sources": [
         {
           "citation": "Ward, A. F., Duke, K., Gneezy, A., & Bos, M. W. (2017). Brain drain: The mere presence of one’s own smartphone reduces available cognitive capacity. Journal of the Association for Consumer Research, 2(2), 140–154.",
           "doiOrUrl": "https://doi.org/10.1086/691462",
           "n": "520 (Exp1); 275 (Exp2)"
+        },
+        {
+          "citation": "Ruiz Pardo, A. C., & Minda, J. P. (2022). Reexamining the “brain drain” effect: A replication of Ward et al. (2017). Acta Psychologica, 230, 103717.",
+          "doiOrUrl": "https://doi.org/10.1016/j.actpsy.2022.103717"
+        },
+        {
+          "citation": "Hartanto, A., Lua, V. Y. Q., Kasturiratna, K. T. A. S., Koh, P. S., Tng, G. Y. Q., Kaur, M., Quek, F. Y. X., Chia, J. L., & Majeed, N. M. (2024). The effect of mere presence of smartphone on cognitive functions: A four-level meta-analysis. Technology, Mind, and Behavior, 5(1).",
+          "doiOrUrl": "https://doi.org/10.1037/tmb0000123",
+          "n": "33 studies / 53 samples / 166 effects / 4,368 participants"
         }
       ],
-      "practice": "For deep-work / flow blocks, put the phone in another room (not pocket/desk, not just silent)—especially if you feel dependent on it.",
+      "practice": "Still park the phone for deep blocks — but justify it by notification/interruption risk and habit loops, not by treating Ward’s mere-presence “brain drain” as settled science.",
       "themeIds": [
         "flow-triggers",
         "training-vs-chemicals"
       ],
       "added": "2026-09-26",
-      "lastReviewed": "2026-09-26",
+      "lastReviewed": "2026-09-27",
       "status": "active"
     },
     {
@@ -458,12 +467,21 @@
       "title": "Moving in sync boosts prosocial glue",
       "claim": "Meta-analysis of 60 published and unpublished experiments found interpersonal synchrony (shared motor timing or sensory stimulation) produced a medium positive effect on prosocial attitudes and behaviors versus control conditions, with experimenter effects and intentionality as moderators.",
       "evidenceTier": "Established",
-      "caveats": "Outcome is prosociality (affiliation, cooperation, helping)—not validated group-flow scales. Does not prove Sawyer/Kotler “group flow trigger lists.” Later work also flags a dark side (compliance/aggression under synchrony; Wiltermuth). Use as a cohesion precursor, not a peak-state guarantee.",
+      "caveats": "Established for prosociality (affiliation, cooperation, helping) — not for validated group-flow scales. Does not prove Sawyer/Kotler “group flow trigger lists.” Adjacent Promising bridge: Gordon et al. (2020; 51 triads) found physiological/behavioral synchrony predicted cohesion and later coordinated drumming performance — still not a group-flow scale. Dark side: Wiltermuth (2012) shows synchrony can boost compliance with aggressive requests and destructive obedience — keep risk-reward-nos honest. Use as a cohesion precursor, not a peak-state guarantee.",
       "sources": [
         {
           "citation": "Rennung, M., & Göritz, A. S. (2016). Prosocial consequences of interpersonal synchrony: A meta-analysis. Zeitschrift für Psychologie, 224(3), 168–189.",
           "doiOrUrl": "https://doi.org/10.1027/2151-2604/a000252",
           "n": "60 experiments"
+        },
+        {
+          "citation": "Gordon, I., Gilboa, A., Cohen, S., Milstein, N., Haimovich, N., Pinhasi, S., & Siegman, S. (2020). Physiological and behavioral synchrony predict group cohesion and performance. Scientific Reports, 10, 8484.",
+          "doiOrUrl": "https://doi.org/10.1038/s41598-020-65670-1",
+          "n": "51 three-person groups"
+        },
+        {
+          "citation": "Wiltermuth, S. S. (2012). Synchronous activity boosts compliance with requests to aggress. Journal of Experimental Social Psychology, 48(1), 453–456.",
+          "doiOrUrl": "https://doi.org/10.1016/j.jesp.2011.10.007"
         }
       ],
       "practice": "Before a team deep-work session, do 2–3 minutes of intentional shared rhythm (walk/pace together, count-in, or brief joint warm-up) with a clear shared goal—not silent parallel scrolling.",
@@ -472,7 +490,29 @@
         "risk-reward-nos"
       ],
       "added": "2026-09-26",
-      "lastReviewed": "2026-09-26",
+      "lastReviewed": "2026-09-27",
+      "status": "active"
+    },
+    {
+      "id": "flow-dependence-big-wave-2009",
+      "title": "Flow’s dark side: dependence symptoms in high-risk sport",
+      "claim": "In qualitative interviews with 15 elite big-wave surfers, flow dimensions co-occurred with exercise-dependence symptoms (tolerance, withdrawal, conflict, continuation despite injury). Authors report association, not causation — a counterweight to romanticizing high-consequence flow.",
+      "evidenceTier": "Promising",
+      "caveats": "Qualitative N=15 case interviews; no causal claim that flow produces dependence. Contested if over-read as proof that flow is addictive in general populations. Useful as risk-reward-nos honesty against Kotler-style glorification of high-consequence triggers; does not invalidate adaptive flow in lower-risk skill work.",
+      "sources": [
+        {
+          "citation": "Partington, S., Partington, E., & Olivier, S. (2009). The dark side of flow: A qualitative study of dependence in big wave surfing. The Sport Psychologist, 23(2), 170–185.",
+          "doiOrUrl": "https://doi.org/10.1123/tsp.23.2.170",
+          "n": "15 elite big-wave surfers (qualitative interviews)"
+        }
+      ],
+      "practice": "After one high-intensity flow bout this week, run a 60-second honesty check: tolerance (need bigger hits?), withdrawal mood when skipped, conflict with sleep/relationships, continuing through injury red flags — if yes on ≥2, shrink consequence and rebuild with lower-risk challenge–skill craft.",
+      "themeIds": [
+        "risk-reward-nos",
+        "flow-triggers"
+      ],
+      "added": "2026-09-27",
+      "lastReviewed": "2026-09-27",
       "status": "active"
     }
   ],
