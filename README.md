@@ -22,7 +22,8 @@ Share the whole `site/` folder, or drop it on any static host (Netlify, GitHub P
 | Path | Role |
 |------|------|
 | `index.html` | Main page |
-| `css/styles.css` | Dark Promethean UI |
+| `css/styles.css` | Dark Promethean instrument UI (ember, charcoal, serif display) |
+| `img/mark.svg` | Geometric ember mark used in the hero and as the favicon |
 | `js/app.js` | Load JSON, cards, tier/theme filters, search, export |
 | `js/scene.js` | Three.js ambient background (embers + lattice); respects `prefers-reduced-motion` |
 | `data/tidbits.json` | Source of truth for tidbits, themes, lane note |

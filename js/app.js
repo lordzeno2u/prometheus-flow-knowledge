@@ -49,12 +49,12 @@
   function renderLane() {
     if (!data.lane || !els.lane) return;
     els.lane.innerHTML =
-      "<strong>Prometheus</strong> — " +
+      '<p class="lane-cell"><strong>Prometheus</strong><span class="lane-body">' +
       escapeHtml(data.lane.prometheus) +
-      '<span class="sep">·</span>' +
-      "<strong>Helix</strong> — " +
+      "</span></p>" +
+      '<p class="lane-cell lane-handoff"><strong>Helix</strong><span class="lane-body">' +
       escapeHtml(data.lane.helix) +
-      " (hand off, do not duplicate)";
+      " (hand off, do not duplicate)</span></p>";
   }
 
   function renderThemes() {
@@ -186,7 +186,9 @@
       escapeHtml(t.lastReviewed || "—");
 
     return (
-      '<article class="tidbit-card" data-id="' +
+      '<article class="tidbit-card" data-tier="' +
+      escapeHtml(t.evidenceTier) +
+      '" data-id="' +
       escapeHtml(t.id) +
       '">' +
       '<div class="card-top">' +
@@ -237,7 +239,11 @@
 
     if (!items.length) {
       els.list.innerHTML =
-        '<div class="empty-state">No tidbits match the current filters. Clear search or reset tier/theme.</div>';
+        '<div class="empty-state" role="status">' +
+        '<div class="empty-mark" aria-hidden="true"></div>' +
+        '<p class="empty-title">Nothing in this cut</p>' +
+        "<p>No tidbits match the current filters. Clear search or reset tier/theme.</p>" +
+        "</div>";
       return;
     }
 
