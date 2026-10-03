@@ -514,6 +514,115 @@
       "added": "2026-09-27",
       "lastReviewed": "2026-09-27",
       "status": "active"
+    },
+    {
+      "id": "personality-flow-meta-2025",
+      "title": "Conscientiousness is the strongest Big Five correlate of flow",
+      "claim": "A three-level meta-analysis of 24 studies (352 effect sizes) found a medium positive association between Conscientiousness and flow (r = 0.33), smaller positives for Extraversion (0.25), Openness (0.18), and Agreeableness (0.16), and a small negative link for Neuroticism (r = −0.16).",
+      "evidenceTier": "Established",
+      "caveats": "Zero-order associations only in the primary meta; a 2026 MASEM reanalysis argues only Conscientiousness remains clear once trait intercorrelations are controlled — flag for Sunday. Correlational, not causal: does not prove personality coaching creates acute flow. Culture moderated Extraversion/Openness/Agreeableness (stronger in Eastern samples).",
+      "sources": [
+        {
+          "citation": "Buseyne, S., Said-Metwaly, S., Van den Noortgate, W., Depaepe, F., & Raes, A. (2025). The relationship between personality and flow: A meta-analysis. Journal of Personality, 94(2), 333–350.",
+          "doiOrUrl": "https://doi.org/10.1111/jopy.70004",
+          "n": "24 studies / 352 effect sizes"
+        }
+      ],
+      "practice": "Design today’s deep block around Conscientiousness levers you control: one clear goal, a start time you keep, and a finish criterion — don’t wait for an Openness “inspiration” mood.",
+      "themeIds": [
+        "flow-triggers",
+        "training-vs-chemicals"
+      ],
+      "added": "2026-10-03",
+      "lastReviewed": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "id": "team-flow-neural-traits-2025",
+      "title": "Similar EEG neural traits predict easier team flow in dyads",
+      "claim": "In a collaborative music-rhythm game with EEG hyperscanning, a seven-dimensional latent EEG space separated stable neural traits from transient states; closer partners in that trait space were more likely to enter a shared team-flow state (validated partly by resistance to a door-knock distractor).",
+      "evidenceTier": "Promising",
+      "caveats": "Lab dyads on a timing game — not office teams or Sawyer’s popular group-flow checklists. Builds on earlier Shehata team-flow EEG work; sample and task specificity limit generalization. Does not license ‘match brain fingerprints’ hiring theater.",
+      "sources": [
+        {
+          "citation": "Wu, Q., Nakauchi, S., Shehata, M., & Shimojo, S. (2025). A hierarchical trait and state model for decoding dyadic social interactions. Scientific Reports, 15, 11399.",
+          "doiOrUrl": "https://doi.org/10.1038/s41598-025-95916-9"
+        }
+      ],
+      "practice": "For one paired deep-work bout, pick a partner with matching pace and shared timing cues (count-in, same block length, same success metric) — optimize fit and shared structure before chasing ‘group flow’ rituals.",
+      "themeIds": [
+        "group-flow"
+      ],
+      "added": "2026-10-03",
+      "lastReviewed": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "id": "exercise-catecholamine-flow-2023",
+      "title": "In noncompetitive runs, higher flow tracked lower catecholamines",
+      "claim": "In 22 recreational male runners, post-exercise urinary noradrenaline and adrenaline (and HVA) were negatively correlated with self-reported flow after noncompetitive intermittent running; under audience competition those flow–catecholamine associations disappeared, and action–awareness merging scored lower.",
+      "evidenceTier": "Promising",
+      "caveats": "Men-only N=22; urinary catecholamines are imperfect CNS proxies. Supports a low-to-moderate arousal / transient-hypofrontality-compatible pattern in noncompetitive exercise — not Stealing Fire’s packaged five-chemical ecstasis cocktail or ‘more catecholamines = more flow.’ Competition raised NA+A and blunted the association.",
+      "sources": [
+        {
+          "citation": "Karsai, I., Nagy, Z., Nagy, T., Kocsor, F., Láng, A., Kátai, E., Miseta, A., Fazekas, G., & Kállai, J. (2023). Physical exercise induces mental flow related to catecholamine levels in noncompetitive, but not competitive conditions in men. Scientific Reports, 13, 14238.",
+          "doiOrUrl": "https://doi.org/10.1038/s41598-023-41518-2",
+          "n": "22 men"
+        }
+      ],
+      "practice": "Prefer one noncompetitive skill bout (run, lift, or practice) with a personal challenge–skill target over an audience/ego race when the goal is absorption — keep arousal usable, not maximal.",
+      "themeIds": [
+        "neurochemistry-ecstasis",
+        "risk-reward-nos",
+        "training-vs-chemicals"
+      ],
+      "added": "2026-10-03",
+      "lastReviewed": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "id": "nature-attention-restoration-meta-2025",
+      "title": "Nature beats non-nature for attention — small, ~30-minute peak",
+      "claim": "A multilevel meta-analysis of 80 studies (273 outcomes) found nature exposures improved overall cognitive performance versus non-natural comparators; reliable domain benefits were for working memory and attentional control. Effects were small, heterogeneous, larger after cognitive fatigue, and generally peaked around ~30 minutes of exposure.",
+      "evidenceTier": "Established",
+      "caveats": "Established for attention/working-memory restoration, not for validated flow-state scales. Small average effects and high heterogeneity — not a miracle reset. Longevity/green-space health claims belong to Helix; keep this as a focus-recovery tool.",
+      "sources": [
+        {
+          "citation": "Bell, C. N., St George, R., Honan, C., Bell, L. J., Jolly, A. T. W., & Matthews, A. (2025). The relationship between nature exposures and attention restoration, as moderated by exposure duration: A systematic review and meta-analysis. Journal of Environmental Psychology, 104, 102632.",
+          "doiOrUrl": "https://doi.org/10.1016/j.jenvp.2025.102632",
+          "n": "80 studies / 273 outcomes"
+        }
+      ],
+      "practice": "After a fatiguing deep block, take ~20–30 minutes outdoors (or a green walk) before the next hard cognitive bout — treat it as attention recovery, not a flow trigger ritual.",
+      "themeIds": [
+        "training-vs-chemicals",
+        "flow-triggers"
+      ],
+      "added": "2026-10-03",
+      "lastReviewed": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "id": "caffeine-flow-induction-review-2024",
+      "title": "Caffeine-as-flow-drug is a proposal, not a trial result",
+      "claim": "A 2024 review argues caffeine could facilitate flow via adenosine antagonism, dopaminergic affinity shifts, LC–NE alertness, and network effects — and explicitly hopes to inspire future studies. It is a conceptual/mechanistic argument, not evidence that caffeine induces flow states in controlled trials.",
+      "evidenceTier": "Speculative",
+      "caveats": "Coauthored by Steven Kotler; treat as Stealing Fire–adjacent packaging until RCTs measure flow (not just alertness/performance). Caffeine’s Established effects are arousal/vigilance and partial sleep-debt bandage — do not upgrade those to ‘chemical flow trigger.’ Dose, tolerance, anxiety, and sleep cost make this a risk–reward question, not a protocol.",
+      "sources": [
+        {
+          "citation": "Reich, N., Mannino, M., & Kotler, S. (2024). Using caffeine as a chemical means to induce flow states. Neuroscience & Biobehavioral Reviews, 159, 105577.",
+          "doiOrUrl": "https://doi.org/10.1016/j.neubiorev.2024.105577"
+        }
+      ],
+      "practice": "If you use caffeine, keep it early, modest, and paired with sleep + challenge–skill design — never as a substitute for recovery or as a Kotler-style chemical flow stack.",
+      "themeIds": [
+        "training-vs-chemicals",
+        "neurochemistry-ecstasis",
+        "risk-reward-nos"
+      ],
+      "added": "2026-10-03",
+      "lastReviewed": "2026-10-03",
+      "status": "active"
     }
   ],
   "lane": {
